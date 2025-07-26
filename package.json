@@ -1,4 +1,4 @@
-{
+l{
 	"name": "mern-crash-course",
 	"version": "1.0.0",
 	"description": "",
@@ -7,7 +7,7 @@
 		"dev": "NODE_ENV=development nodemon backend/server.js",
 		"build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
 		"start": "NODE_ENV=production node backend/server.js"
-	}, 
+	},  
 	"type": "module",
 	"keywords": [],
 	"author": "",
